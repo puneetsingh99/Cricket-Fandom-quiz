@@ -3,7 +3,7 @@
 
 # How to play?
 
-1. Go to the about section of this repository on the top right corner, there you will find the link which will take you to repl.it. 
+1. Go to the 'About' section of this repository on the top right corner, there you will find the link which will take you to repl.it. 
 2. Click on the green "Run" button to start the quiz.
 
 # Rules of the quiz
